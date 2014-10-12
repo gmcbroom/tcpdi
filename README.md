@@ -10,16 +10,10 @@ which included in the repository.
 Installation
 ------------
 
-Link as VCS repository in your composer using such instructions
+Link package in composer.json, e.g.
 
 ```json
 {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/kulbakin/tcpdi"
-        }
-    ],
     "require": {
         "propa/tcpdi": "dev-master"
     }
