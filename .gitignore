@@ -1,0 +1,9 @@
+# System files
+.DS_Store
+
+# NetBeans-Settings
+/nbproject/
+
+# IDEs
+.idea/*
+*.iml
