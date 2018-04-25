@@ -37,7 +37,7 @@ class TCPDI extends FPDF_TPL {
      * Parser-Objects
      * @var array
      */
-    var $parsers;
+    var $parsers = [];
     
     /**
      * Current parser
